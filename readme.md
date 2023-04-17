@@ -17,3 +17,7 @@ pnpm run dev
 
 - preview on http://localhost:3000
 - open browser console for exporter events preview
+
+
+https://user-images.githubusercontent.com/89569524/232508415-25bc72f1-0267-43c6-be6c-962bfddcd461.mp4
+
